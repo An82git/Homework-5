@@ -1,0 +1,6 @@
+2024-01-11 16:29:44.765145: [user: Richard Velasquez; command: /exchange; code: True; error: None]
+2024-01-11 16:29:54.773840: [user: Richard Velasquez; command: /exchange 2; code: True; error: None]
+2024-01-11 16:29:57.071647: [user: Richard Velasquez; command: /exchange k; code: False; error: 'k' is not a number.]
+2024-01-11 16:35:28.208184: [user: Wayne Hamilton; command: /exchange; code: True; error: None]
+2024-01-11 16:35:31.218456: [user: Wayne Hamilton; command: /exchange l; code: False; error: 'l' is not a number.]
+2024-01-11 16:35:38.206083: [user: Wayne Hamilton; command: /exchange 2; code: True; error: None]
